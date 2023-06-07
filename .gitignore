@@ -1,0 +1,5 @@
+
+.vagrant
+.vagrant/*
+*.vmdk*
+packer_virtualbox_virtualbox.box
